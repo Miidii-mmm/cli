@@ -478,7 +478,7 @@ mocked test package
 
 dist
 .tarball: {REGISTRY}/abbrev/-/abbrev-1.0.4.tgz
-.shasum: undefined
+.shasum:
 
 dist-tags:
 latest: 1.1.1
